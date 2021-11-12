@@ -1,0 +1,13 @@
+{
+  "name": "test-husky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wenyangliu/test-husky.git",
+  "author": "liuxiang <1753439422@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^11.2.6",
+    "prettier": "^2.4.1"
+  }
+}
